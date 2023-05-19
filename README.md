@@ -1,6 +1,6 @@
 # Git_Er_Done_Project_1
 ## Flight Delays in America: An Analysis
-Group 1 Data class, Emily, Nathir, Masoud
+Group 5 Data class: Mike, Emily, Nathir, Masoud
 
 ### Who we are:
 Our team is tasked with analyzing flight data in the United States to determine
